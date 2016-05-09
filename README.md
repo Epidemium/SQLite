@@ -82,8 +82,12 @@ Instructions to install SQLite Database Browser are available at https://github.
 
 ## Citing EpidemiumDB
 Citing EpidemiumDB or code on this Github repository
+
+```
 Maouche S, Debonneuil E, de Fresnoye O, Richard PM, Terlinden A,BD4Cancer, Baseline, Epidemium (2016), GitHub repository, https://github.com/Epidemium/SQLite
+```
 * A respective BibTeX entry
+```
 @misc{Maouche2016,
   author = {Maouche S, Debonneuil E, de Fresnoye O, Richard PM, Terlinden A,BD4Cancer, Baseline, Epidemium},
   title = {EpidemiumDB},
@@ -91,8 +95,9 @@ Maouche S, Debonneuil E, de Fresnoye O, Richard PM, Terlinden A,BD4Cancer, Basel
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Epidemium/SQLite}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  commit = {}
 }
+```
 
 ## Releases
 [Version 1.0](http://bd4cancer.tbiscientific.com/data/EpidemiumDB_V1.0.db) released - 2016-05-09
