@@ -1,3 +1,5 @@
+![alt tag](https://github.com/Epidemium/SQLite/blob/master/epidemiumDB.png)
+
 # EpidemiumDB SQLite
 ### Sqlite version of EpidemiumDB (version 1.0)
 SQLite version contains EpidemiumDB tables that are needed for analyses. The current version contains 9 tables from BD4Cancer and Baseline projects.
