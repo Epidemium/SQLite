@@ -6,8 +6,8 @@ SQLite version contains EpidemiumDB tables that are needed for analyses. The cur
 The current version was generated on May, 9th, 2016
 
 ### Download current version
-The current version of EpidemiumDB SQLite version is available at http://bd4cancer.tbiscientific.com/data/EpidemiumDB_V1.0.db 
-R code to use EpidemiumDB in R has been provided [here](https://github.com/Epidemium/SQLite/blob/master/RSQLiteEpidemiumDB.R). 
+* The current version of EpidemiumDB SQLite version is available at http://bd4cancer.tbiscientific.com/data/EpidemiumDB_V1.0.db 
+* R code to use EpidemiumDB in R has been provided [here](https://github.com/Epidemium/SQLite/blob/master/RSQLiteEpidemiumDB.R). 
 
 ## Using EpidemiumDB SQLite in R
 To use EpidemiumDB (SQLite version) in R, the two packages RSQLite and DBI need to be installed.
@@ -77,8 +77,9 @@ head(res4)
 ## Using the SQLite Database Browser
 SQLite Database Browser is multi-platforms open source software to use SQLite databases. This SQLite client can be used to explore EpidemiumDB.
 Instructions to install SQLite Database Browser are available at https://github.com/sqlitebrowser/sqlitebrowser
+
 ![alt tag](https://github.com/Epidemium/SQLite/blob/master/DBbrowser.png)
 
 
 ### Releases
-Version 1.0 released - 2016-05-09
+[Version 1.0](http://bd4cancer.tbiscientific.com/data/EpidemiumDB_V1.0.db) released - 2016-05-09
