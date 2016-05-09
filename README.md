@@ -69,7 +69,9 @@ head(res4)
 
 
 
-## Using EpidemiumDB using the SQLite Database Browser
+## Using the SQLite Database Browser
+SQLite Database Browser is multi-platforms open source software to use SQLite databases. This SQLite client can be used to explore EpidemiumDB.
+Instructions to install SQLite Database Browser are available at https://github.com/sqlitebrowser/sqlitebrowser
 ![alt tag](https://github.com/Epidemium/SQLite/blob/master/DBbrowser.png)
 
 
