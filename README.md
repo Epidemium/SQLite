@@ -19,7 +19,8 @@ To use EpidemiumDB (SQLite version) in R, the two packages RSQLite and DBI need 
 * RSQLITE on Github : https://github.com/rstats-db/RSQLite
 * DBI: https://cran.r-project.org/web/packages/DBI/index.html
 * Documentation: https://cran.r-project.org/web/packages/RSQLite/RSQLite.pdf
-```
+
+``` R
 #### Install DBI and RSQLite
 install.packages("RSQLite")
 install.packages("DBI")
