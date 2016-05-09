@@ -70,7 +70,7 @@ head(res4)
 
 
 ## Using EpidemiumDB using the SQLite Database Browser
-
+![alt tag](https://github.com/Epidemium/SQLite/blob/master/DBbrowser.png)
 
 
 ### Releases
