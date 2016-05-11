@@ -10,7 +10,7 @@ SQLite version contains EpidemiumDB tables that are needed for analyses. The cur
 The current version was generated on May, 9th, 2016
 
 ### Download current version
-* The current version of EpidemiumDB SQLite version is available at http://bd4cancer.tbiscientific.com/data/EpidemiumDB_v1.0.db
+* The current version of EpidemiumDB SQLite version is available at http://data.epidemium.cc/files/epidemiumDBSqlite/EpidemiumDB_v1.0.db
 * R code to use EpidemiumDB in R has been provided [here](https://github.com/Epidemium/SQLite/blob/master/RSQLiteEpidemiumDB.R). 
 
 ## Using EpidemiumDB SQLite in R
@@ -105,4 +105,4 @@ Maouche S, Debonneuil E, de Fresnoye O, Richard PM, Terlinden A,BD4Cancer, Basel
 ```
 
 ## Releases
-[Version 1.0](http://bd4cancer.tbiscientific.com/data/EpidemiumDB_v1.0.db) released - 2016-05-09
+[Version 1.0](http://data.epidemium.cc/files/epidemiumDBSqlite/EpidemiumDB_v1.0.db) released - 2016-05-09
