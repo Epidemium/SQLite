@@ -10,7 +10,7 @@
 
 #****************** About data.epidemium.cc
 # data.epidemium.cc is the Open Data platform of the Epidemium Project. This platfrom is using CKAN (the Comprehensive Knowledge 
-Archive Network; http://ckan.org), a web-based open source data management system for the storage and distribution of open datasets.
+# Archive Network; http://ckan.org), a web-based open source data management system for the storage and distribution of open datasets.
 # Written in Python, CKAN's code is maintained by the Open Knowledge Foundation (https://okfn.org) 
 
 #****************** CKAN API
