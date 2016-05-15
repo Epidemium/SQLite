@@ -85,6 +85,13 @@ Instructions to install SQLite Database Browser are available at https://github.
 
 ![alt tag](https://github.com/Epidemium/SQLite/blob/master/DBbrowser.png)
 
+
+## Using Epidemium CKAN-based Open Data platform using the API
+EpidemiumDB provide a link to the CKAN-based Open Data Platform. The table datasets provide a description and links to cancer datasets availables at data.epidemium.cc
+We developed an R script that provide functionalities to query and search CKAN
+https://github.com/Epidemium/SQLite/blob/master/RSQLiteEpidemiumDB.R
+
+
 ## Citing EpidemiumDB
 Citing EpidemiumDB or code on this Github repository
 
